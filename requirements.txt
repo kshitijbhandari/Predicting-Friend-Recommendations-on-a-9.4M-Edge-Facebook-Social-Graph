@@ -1,0 +1,11 @@
+pandas
+numpy
+networkx
+matplotlib
+seaborn
+scikit-learn
+xgboost
+scipy
+tqdm
+tables
+plotly
